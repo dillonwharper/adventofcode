@@ -331,6 +331,4 @@ ASALocalRun/
 
 # Custom
 *.sln
-*.config
-*.csproj
 AssemblyInfo.cs
